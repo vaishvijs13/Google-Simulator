@@ -1,0 +1,36 @@
+        div {
+            size: 150px;
+            margin-right: 580px;
+            margin-left: 575px;
+            margin-top: 230px;
+        }
+
+        #searchbox {
+            margin-right: 580px;
+            margin-left: 427px;
+            margin-top: 20px;
+            border-radius: 25px;
+            border: 1px solid lightgray;
+            padding: 4px;
+            width: 557px;
+            height: 33px;
+            font-size: medium;
+            font-family: Arial;
+        }
+        a:link {
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+        #link {
+            position: fixed;
+            margin-top: -367px;
+            margin-left: 1194px;
+            color: black;
+            cursor: pointer;
+            line-height: 24px;
+            font-family: arial, sans-serif;
+            font-size: 13px;
+        }
